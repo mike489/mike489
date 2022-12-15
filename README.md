@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hello 😎, I'm Michael Tesfaye</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate software engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike489&label=Profile%20views&color=0e75b6&style=flat" alt="mike489" /> </p>
