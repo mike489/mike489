@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://rishavchanda.io)
+[![MasterHead](https://images.pexels.com/photos/270700/pexels-photo-270700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://rishavchanda.io)
 <h1 align="center">Hello 😎, I'm Michael Tesfaye</h1>
 <h3 align="center">A passionate software engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
