@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mike_tesfaye4" target="blank"><img src="https://img.shields.io/twitter/follow/mike_tesfaye4?logo=twitter&style=for-the-badge" alt="mike_tesfaye4" /></a> </p>
 
-- 🌱 I’m currently learning **python, c++, css**
+- 🌱 I’m currently learning **sql, MERN, css**
 
 - 📫 How to reach me **michaeltesfaye84@gmail.com**
 
