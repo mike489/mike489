@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mike_tesfaye4" target="blank"><img src="https://img.shields.io/twitter/follow/mike_tesfaye4?logo=twitter&style=for-the-badge" alt="mike_tesfaye4" /></a> </p>
 
-- 🌱 I’m currently Working Us a Front-end developer **
+- 🌱 I’m currently Working as a Front-end developer **
 
 - 📫 How to reach me **michaeltesfaye84@gmail.com**
 
-- ⚡ Fun fact **I am comparative !!**
+- ⚡ Fun fact **I am Competitive !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
