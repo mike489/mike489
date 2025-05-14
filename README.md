@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">Hello 😎, I'm Michael Tesfaye</h1>
 <h3 align="center">A passionate software engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
